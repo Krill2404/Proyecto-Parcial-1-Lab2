@@ -1,0 +1,139 @@
+# depslib dependency file v1.0
+1652473251 source:c:\users\lucas enriquez\documents\2022 c1\parcial lab 2\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"clases.h"
+	"funciones_cliente.h"
+
+1652473104 c:\users\lucas enriquez\documents\2022 c1\parcial lab 2\clases.h
+
+1652471376 c:\users\lucas enriquez\documents\2022 c1\parcial lab 2\funciones.h
+
+1652473117 c:\users\lucas enriquez\documents\2022 c1\parcial lab 2\funciones_cliente.h
+
+1652741497 source:c:\users\nicolás\downloads\parcial_lab_2 (1)\parcial lab 2\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"clases.h"
+	"funciones_cliente.h"
+	"funciones_articulos.h"
+
+1652742105 c:\users\nicolás\downloads\parcial_lab_2 (1)\parcial lab 2\clases.h
+
+1652734435 c:\users\nicolás\downloads\parcial_lab_2 (1)\parcial lab 2\funciones_cliente.h
+
+1652742381 c:\users\nicolás\downloads\parcial_lab_2 (1)\parcial lab 2\funciones_articulos.h
+
+1652744498 source:c:\users\lucas enriquez\downloads\parcial_lab_2 (1)\parcial lab 2\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"clases.h"
+	"funciones_cliente.h"
+	"funciones_articulos.h"
+
+1652745216 c:\users\lucas enriquez\downloads\parcial_lab_2 (1)\parcial lab 2\clases.h
+
+1652744498 c:\users\lucas enriquez\downloads\parcial_lab_2 (1)\parcial lab 2\funciones_cliente.h
+
+1652745430 c:\users\lucas enriquez\downloads\parcial_lab_2 (1)\parcial lab 2\funciones_articulos.h
+
+1652813212 source:c:\users\nicolás\downloads\parcial_lab_2_1\parcial_lab_2 (1)\parcial lab 2\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"clases.h"
+	"funciones_cliente.h"
+	"funciones_articulos.h"
+
+1652814438 c:\users\nicolás\downloads\parcial_lab_2_1\parcial_lab_2 (1)\parcial lab 2\clases.h
+
+1652812642 c:\users\nicolás\downloads\parcial_lab_2_1\parcial_lab_2 (1)\parcial lab 2\funciones_cliente.h
+
+1652814476 c:\users\nicolás\downloads\parcial_lab_2_1\parcial_lab_2 (1)\parcial lab 2\funciones_articulos.h
+
+1652826993 source:c:\users\shu41\desktop\parcial lab 2\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"clases.h"
+	"funciones_cliente.h"
+	"funciones_articulos.h"
+	"funciones_ventas.h"
+
+1652828711 c:\users\shu41\desktop\parcial lab 2\clases.h
+
+1652812644 c:\users\shu41\desktop\parcial lab 2\funciones_cliente.h
+
+1652821710 c:\users\shu41\desktop\parcial lab 2\funciones_articulos.h
+
+1652828445 c:\users\shu41\desktop\parcial lab 2\funciones_ventas.h
+
+1652908365 source:c:\users\lucas enriquez\documents\2022 c1\parcial lab 2_3\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"clases.h"
+	"funciones_cliente.h"
+	"funciones_articulos.h"
+	"funciones_ventas.h"
+	"funciones_reportes.h"
+
+1652909127 c:\users\lucas enriquez\documents\2022 c1\parcial lab 2_3\clases.h
+
+1652908365 c:\users\lucas enriquez\documents\2022 c1\parcial lab 2_3\funciones_cliente.h
+
+1652908178 c:\users\lucas enriquez\documents\2022 c1\parcial lab 2_3\funciones_articulos.h
+
+1652908195 c:\users\lucas enriquez\documents\2022 c1\parcial lab 2_3\funciones_ventas.h
+
+1652898362 c:\users\lucas enriquez\documents\2022 c1\parcial lab 2_3\funciones_reportes.h
+
+1652965249 source:c:\users\lucas enriquez\documents\2022 c1\parcial lab 2_final\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"clases.h"
+	"funciones_cliente.h"
+	"funciones_articulos.h"
+	"funciones_ventas.h"
+	"funciones_reportes.h"
+	"preguntas_parcial.h"
+
+1652909127 c:\users\lucas enriquez\documents\2022 c1\parcial lab 2_final\clases.h
+
+1652908365 c:\users\lucas enriquez\documents\2022 c1\parcial lab 2_final\funciones_cliente.h
+
+1652908178 c:\users\lucas enriquez\documents\2022 c1\parcial lab 2_final\funciones_articulos.h
+
+1652908195 c:\users\lucas enriquez\documents\2022 c1\parcial lab 2_final\funciones_ventas.h
+
+1652898362 c:\users\lucas enriquez\documents\2022 c1\parcial lab 2_final\funciones_reportes.h
+
+1652966066 c:\users\lucas enriquez\documents\2022 c1\parcial lab 2_final\preguntas_parcial.h
+
+1652966435 source:c:\users\lucas enriquez\documents\2022 c1\enriquez_lucas\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"clases.h"
+	"funciones_cliente.h"
+	"funciones_articulos.h"
+	"funciones_ventas.h"
+	"funciones_reportes.h"
+	"parcial_enriquez.h"
+
+1652909127 c:\users\lucas enriquez\documents\2022 c1\enriquez_lucas\clases.h
+
+1652908365 c:\users\lucas enriquez\documents\2022 c1\enriquez_lucas\funciones_cliente.h
+
+1652908178 c:\users\lucas enriquez\documents\2022 c1\enriquez_lucas\funciones_articulos.h
+
+1652908195 c:\users\lucas enriquez\documents\2022 c1\enriquez_lucas\funciones_ventas.h
+
+1652898362 c:\users\lucas enriquez\documents\2022 c1\enriquez_lucas\funciones_reportes.h
+
+1652992856 c:\users\lucas enriquez\documents\2022 c1\enriquez_lucas\parcial_enriquez.h
+
